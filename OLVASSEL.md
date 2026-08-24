@@ -98,7 +98,7 @@ Ezután: http://localhost:4321
 
 - Teljes designrendszer (lásd fent), 5 kész oldal, konzolhiba nélkül.
 - Logó beépítve fejlécbe, láblécbe, az űrlapkártyára, favicon és OG-kép is belőle készült.
-- Képek beépítve: főoldali hero és részletkép, mind az öt szolgáltatáshoz saját fotó,
+- Képek beépítve: főoldali hero és részletkép, mind a négy szolgáltatáshoz saját fotó,
   plusz közösségi megosztási (OG) kép. Mind WebP, két méretben, `srcset` + `sizes`
   szerint tálalva, a hero `fetchpriority="high"`, a többi `loading="lazy"`.
 - Oldalanként pontosan egy H1; a navigáció, lábléc és CTA címkék nem H1-esek.

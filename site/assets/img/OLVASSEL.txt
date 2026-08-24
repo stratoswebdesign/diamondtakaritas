@@ -1,6 +1,6 @@
 A weboldalon használt képek és logók (WebP, méretoptimalizálva).
 
-LOGÓ (forrás: T.png = fehér, T-2.png = fekete)
+LOGÓ (forrás: T-8.png = fehér, T-7.png = fekete)
   logo-feher-400 / -800          fejléc, lábléc, mobilmenü (sötét háttéren)
   logo-fekete-400 / -800         ajánlatkérő űrlap kártyája (világos háttéren)
   jel-feher-256 / jel-fekete-256 csak a gyémántjel, kis felületekhez
@@ -9,7 +9,7 @@ LOGÓ (forrás: T.png = fehér, T-2.png = fekete)
   icon-512.png                   nagy ikon / PWA tartalék
 
 FOTÓK
-  halo-otthon-689 / -480         főoldali hero + kárpittisztítás blokk (álló, 3:4)
+  halo-otthon-689 / -480         főoldali hero (álló, 3:4)
   konyha-reszlet-726 / -480      főoldal „Diamond szintű tisztaság” (álló, 4:5)
   lakastakaritas-halo-564 / -420 szolgáltatások – lakástakarítás (álló, 4:5)
   haztakaritas-nappali-1500/-900 szolgáltatások – ház takarítás (fekvő, 3:2)
