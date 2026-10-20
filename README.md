@@ -3,7 +3,7 @@
 Statikus weboldal a Diamond Takarítás Győr lakossági takarítási szolgáltatásaihoz.
 A tartalom és a SEO-struktúra a fejlesztői specifikáció alapján készült.
 
-**Élő oldal:** https://lukacsartur13.github.io/diamondtakaritas/
+**Élő oldal:** https://diamondtakaritas.hu/
 (a végleges cím a tervek szerint: https://diamondtakaritas.hu/)
 
 ## Felépítés
